@@ -4,7 +4,7 @@ My name is Rodrigo Argumedo. Often called by Rod.
 
 - 📫 How to reach me: rodrigo@rodrigoargumedo.me
 - 🔭 I’m currently working on [Hackalist](https://github.com/Hackalist/Hackalist.github.io) as a maintainer.
-- 🌱 I’m currently learning ASP.NET, C#, CircuitPython, and TSQL.
+- 🌱 I’m currently learning ASP.NET, C#, CircuitPython, Ruby, and TSQL.
 
 <!--
 **rodrigoargumedo/rodrigoargumedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
