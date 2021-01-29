@@ -4,6 +4,7 @@ My name is Rodrigo Argumedo. Often called by Rod.
 
 - 📫 How to reach me: rodrigo@rodrigoargumedo.me
 - 🔭 I’m currently working on [Hackalist](https://github.com/Hackalist/Hackalist.github.io) as a maintainer.
+- 🛠 I'm currently building projects on Raspberry Pi Pico and [Adafruit's series of products](https://adafruit.com)
 - 🌱 I’m currently learning ASP.NET, C#, CircuitPython, Ruby, and TSQL.
 
 <!--
